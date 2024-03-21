@@ -30,7 +30,7 @@ body{ /*fonte utilizada em todo texto da página*/
     width: 25%;
 }
 .escola{ /*classe escola no HTML*/
-    background-image: linear-gradient(#131112, #1b191a); /*imagem de fundo*/
+    background-image: linear-gradient(#131112, #850042); /*imagem de fundo*/
     color: white;
     display: flex;
     justify-content: center;
