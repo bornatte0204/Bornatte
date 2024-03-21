@@ -1,5 +1,5 @@
 header{ /*classe cabecalho criada no HTML*/
-    background-color: #c51f8e; /*cor do fundo*/
+    background-color: #181617; /*cor do fundo*/
     color: rgba(245, 241, 241, 0.089); /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
@@ -30,7 +30,7 @@ body{ /*fonte utilizada em todo texto da página*/
     width: 25%;
 }
 .escola{ /*classe escola no HTML*/
-    background-image: linear-gradient(#9c1574, #b12164); /*imagem de fundo*/
+    background-image: linear-gradient(#131112, #1b191a); /*imagem de fundo*/
     color: white;
     display: flex;
     justify-content: center;
