@@ -1,6 +1,6 @@
 header{ /*classe cabecalho criada no HTML*/
-    background-color: #161816; /*cor do fundo*/
-    color: rgba(245, 241, 241, 0.089); /*cor da fonte*/
+    background-color: #22be22; /*cor do fundo*/
+    color: rgba(48, 187, 36, 0.089); /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
