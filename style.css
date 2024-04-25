@@ -61,5 +61,5 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .estudante-todos{ /*classe estudante-todos no HTML*/
     display: grid; /*organiza os elementos como se fosse uma tabela*/
-    grid-template-columns: 20% 20% 20% 20%; /*4 colunas, cada uma ocupa 20% da tela*/
+    grid-template-columns: 50% 50% 50% 50%; /*4 colunas, cada uma ocupa 20% da tela*/
 }
